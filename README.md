@@ -8,7 +8,7 @@ Requirements
             ex. /home/swapnil/project
             Uncomment the graph font and if given font exists in your system then ok else change it to available fonts.
             ex./usr/share/fonts/truetype/ttf-khmeros-core/KhmerOSsys.ttf
-            change the output directory to your new created directory.
+            Change the output directory to your new created directory.
             ex./home/swapnil/project
  
 To run the project-
