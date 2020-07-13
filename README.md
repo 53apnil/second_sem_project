@@ -14,7 +14,7 @@ Requirements
 To run the project-
                   Create the new dirctory.
                   Download the access.log file in the created directory link as follows:https://drive.google.com/file/d/16D735kCqefO1Qltek_1vJWg5rw4-X0Ud/view?usp=sharing
-                  Run the following python programs first.
+                  Run the following python programs first to create five collections under project database.
                         addedu.py
                         addjoy.py
                         addmat.py
